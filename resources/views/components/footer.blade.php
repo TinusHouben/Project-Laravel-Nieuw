@@ -1,0 +1,1 @@
+<p>&copy; {{ date('Y') }} Het Laatste Nieuws. Alle rechten voorbehouden</p>
